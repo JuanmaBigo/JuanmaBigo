@@ -4,6 +4,7 @@
 -->
 <h2 align="center">Languages & Frameworks</h2>
 
+<!--
 <p align="center">
   
   <code><img title="C++" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
@@ -17,6 +18,7 @@
   <code><img title="Mongo DB" height="25" src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png"></code>
   <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
 </p>
+-->
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

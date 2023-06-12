@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JuanmaBigo/JuanmaBigo/efd9e714e0731d93948cb49e4a1b830b664c5c47/Juanma.svg"/>
+<img src="https://raw.githubusercontent.com/JuanmaBigo/JuanmaBigo/d72209628be7d7a8f7f5ba8c26df1dabe3e50bd5/Juanma.svg"/>
 <!--
 **JuanmaBigo/JuanmaBigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

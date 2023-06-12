@@ -24,5 +24,5 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="center">Website: <a href='https://juanmabigo.github.io/'>juanmabigo.github.io</a></h3>
+<h3 align="center">Portfolio: <a href='https://juanmabigo.github.io/'>juanmabigo.github.io</a></h3>
 
